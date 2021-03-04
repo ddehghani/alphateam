@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"itec3030.assignments.a1.sensors.thermoset.ThermoSetX19","l":"ThermosetX19"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"itec3030.assignments.a2","l":"OldTempSensorAdapter"}];updateSearchResults();
